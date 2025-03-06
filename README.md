@@ -2,6 +2,7 @@
 
 All visualizations use D3.js. 
 The tree map and circle packing was viewed and worked on using observableHq notebook.
+The baseline was worked on using local server, it has it's own HTML.
 
 The baseline visualization:
 1. A resused visualization provided and made by Dr. Bo Fu
