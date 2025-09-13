@@ -6,7 +6,7 @@ These visualizations explore hierarchical data structures using **D3.js**.
 ## 📄 Research Context
 
 This project was developed as part of the **D2 Ontology Lab research study**.  
-You can read the full research paper here: [📕 Research Paper (University of Michigan Deep Blue)](http://hdl.handle.net/20.500.12680/r207v049m)
+You can read the full research paper here: [📕 A Study of Circle Packing, Tree Map, and Baseline Visualizations in Understanding Ontological Relationships (California State University, Long Beach)](http://hdl.handle.net/20.500.12680/r207v049m)
 
 ## 🖼️ Showcase
 
