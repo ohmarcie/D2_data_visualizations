@@ -1,8 +1,17 @@
-# D2_data_visualizations
+# 📊 D2 Ontology Lab Data Visualizations
 
-All visualizations use D3.js. 
-The tree map and circle packing was viewed and worked on using observableHq notebook.
-The baseline was worked on using local server, it has it's own HTML.
+Data visualizations created as part of the **D2 Ontology Lab research study**.  
+These visualizations explore hierarchical data structures using **D3.js**.
+
+## 🖼️ Showcase
+
+- **Tree Map** and **Circle Packing**: Developed and viewed in [ObservableHQ](https://observablehq.com).  
+- **Baseline Visualization**: Built with D3.js and deployed on a local server (standalone HTML).  
+
+### 🎥 Demo Videos
+[![Tree Map Demo](https://youtu.be/3mEUm3YyM54)  
+[![Circle Packing Demo](https://youtu.be/2TzsnzGQRoY)  
+[![Network Graph Demo](https://youtu.be/I9XvBcPzfns)  
 
 The baseline visualization:
 1. A resused visualization provided and made by Dr. Bo Fu
@@ -18,3 +27,14 @@ The circle packing visualization:
 The tree map visualization:
 1. The positioning and json is hardcoded in "predestined positions"
 2. Overlapping is visually seen
+
+## 🛠️ Tech Stack
+- **D3.js** for data visualization  
+- **ObservableHQ** notebooks for prototyping & collaboration  
+- **HTML/CSS/JS** for local baseline implementation  
+
+## 🚀 How to Run
+- Open the ObservableHQ notebooks to explore Tree Map and Circle Packing.  
+- Run the Baseline visualization locally:  
+  ```bash
+  python3 -m http.server
