@@ -9,8 +9,8 @@ These visualizations explore hierarchical data structures using **D3.js**.
 - **Baseline Visualization**: Built with D3.js and deployed on a local server (standalone HTML).  
 
 ### 🎥 Demo Videos
-[![Tree Map Demo](https://youtu.be/3mEUm3YyM54)  
-[![Circle Packing Demo](https://youtu.be/2TzsnzGQRoY)  
+[![Tree Map Demo](https://youtu.be/3mEUm3YyM54)]
+[![Circle Packing Demo](https://youtu.be/2TzsnzGQRoY)](https://youtu.be/2TzsnzGQRoY?si=lMVGxtZFO6yEoBaR))  
 [![Network Graph Demo](https://youtu.be/I9XvBcPzfns)  
 
 The baseline visualization:
