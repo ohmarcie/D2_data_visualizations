@@ -3,6 +3,11 @@
 Data visualizations created as part of the **D2 Ontology Lab research study**.  
 These visualizations explore hierarchical data structures using **D3.js**.
 
+## 📄 Research Context
+
+This project was developed as part of the **D2 Ontology Lab research study**.  
+You can read the full research paper here: [📕 Research Paper (University of Michigan Deep Blue)](http://hdl.handle.net/20.500.12680/r207v049m)
+
 ## 🖼️ Showcase
 
 - **Tree Map** and **Circle Packing**: Developed and viewed in [ObservableHQ](https://observablehq.com).  
@@ -17,6 +22,7 @@ These visualizations explore hierarchical data structures using **D3.js**.
 
 ##### Network Graph (baselines):
 [![Network Graph Demo](https://img.youtube.com/vi/I9XvBcPzfns/0.jpg)](https://youtu.be/I9XvBcPzfns)
+
 
 The network graph visualization:
 1. A resused visualization provided and made by Dr. Bo Fu
